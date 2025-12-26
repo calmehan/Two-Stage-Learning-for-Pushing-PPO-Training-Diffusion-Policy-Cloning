@@ -10,7 +10,7 @@ This project:
 ---
 
 ## 🎬 Demo
-
+(2x speed)
 https://github.com/user-attachments/assets/64ebcd0b-25e7-4a0a-95c0-eb705f47026d
 
 
