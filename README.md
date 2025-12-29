@@ -1,6 +1,6 @@
 # Two-Stage Learning for Pushing: PPO Training + Diffusion Policy Cloning
 
-ROB 498/599 (WN25) project implementing a two-stage pipeline for planar object pushing in simulation: (1) train an expert PPO policy in a shaped-reward environment, then (2) distill that expert into a conditional diffusion policy via behavioral cloning.
+This project implements a two-stage pipeline for planar object pushing in simulation: (1) train an expert PPO policy in a shaped-reward environment, then (2) distill that expert into a conditional diffusion policy via behavioral cloning.
 
 This project:
 - Trains a **PPO expert** (Stable-Baselines3) for **planar block pushing** in **PyBullet**, using a shaped reward over the **object pose state space**.
